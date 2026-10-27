@@ -9,4 +9,4 @@ Final Grade Calculator
 GPA Calculator
 Percentage to Letter Grade Converter
 
-⭐ Start with the Test Grade Calculator — turn any test score into a percentage and a letter grade, instantly.
+⭐ Start with the <a href="https://www.gradcalc.com/test-grade-calculator">Test Grade Calculator</a> — turn any test score into a percentage and a letter grade, instantly.
